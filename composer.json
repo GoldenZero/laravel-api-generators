@@ -1,5 +1,5 @@
 {
-    "name": "GoldenZero/laravel-api-generator",
+    "name": "goldenzero/laravel-api-generator",
     "description": "Laravel API/Scaffold/CRUD Generator from just one command with including Controller, Repository, Model, Migrations, routes.php update. forked from mitulgolakiya/laravel-api-generator",
     "keywords": ["laravel", "api", "model", "migration","scaffold", "CRUD",  "generator", "goldenzero", "danat"],
     "license": "MIT",
