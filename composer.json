@@ -1,12 +1,12 @@
 {
-    "name": "mitulgolakiya/laravel-api-generator",
-    "description": "Laravel API/Scaffold/CRUD Generator from just one command with including Controller, Repository, Model, Migrations, routes.php update.",
-    "keywords": ["laravel", "api", "model", "migration","scaffold", "CRUD",  "generator"],
+    "name": "GoldenZero/laravel-api-generator",
+    "description": "Laravel API/Scaffold/CRUD Generator from just one command with including Controller, Repository, Model, Migrations, routes.php update. forked from mitulgolakiya/laravel-api-generator",
+    "keywords": ["laravel", "api", "model", "migration","scaffold", "CRUD",  "generator", "goldenzero", "danat"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Muayad Sayed ali",
+            "email": "moayds1@gmail.com"
         }
     ],
     "require": {
@@ -16,10 +16,10 @@
     },
     "autoload": {
         "files":[
-            "src/Mitul/Generator/Constants/Constants.php"
+            "src/Goldenzero/Generator/Constants/Constants.php"
         ],
         "psr-4": {
-            "Mitul\\": "src/Mitul/"
+            "Goldenzero\\": "src/Goldenzero/"
         }
     }
 }
